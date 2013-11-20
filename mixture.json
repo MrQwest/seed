@@ -29,7 +29,11 @@
     "optimiseImages": true,
     "password": null,
     "ignoreDir": "ignore",
-    "customTodos": null,
+    "customTodos": [
+    {
+        "fileTypes": "php,cs",
+        "regex": "(?<=/[*] TODO:).*?(?=[*]/)"
+    }],
     "ftpSettings": null,
     "autoPrefixer": null,
     "sass": null,
