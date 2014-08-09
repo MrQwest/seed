@@ -1,5 +1,6 @@
 @import "_reset"; // Lets level the playing field
 @import "_vars"; // Import the variables
+@import "_colors"; // flatuicolors
 @import "_mixins"; // Import the mixins file
 @import "_grids.scss"; // lets grid this baby up.
 @import "_helpers.scss"; // some standard helpers
@@ -9,10 +10,10 @@
 
 /* GENERAL STYLES ================================= */
 
-* { 
-	-moz-box-sizing: border-box; 
-	-webkit-box-sizing: border-box; 
-	box-sizing: border-box; 
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 /* SITE STYLES ================================= */
