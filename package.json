@@ -1,7 +1,7 @@
 {
-  "name": "brassmonkey.it",
-  "version": "0.0.1",
-  "description": "Website for brassmonkey.it",
+  "name": "Seed",
+  "version": "1.0.0",
+  "description": "The seed for a front end build",
   "author": "MrQwest <hello@mrqwest.co.uk>",
   "main": "Gruntfile.js",
   "devDependencies": {
