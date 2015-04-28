@@ -1,3 +1,3 @@
 # Seed
 
-The starting point for all my Front End Builds using [Mixture](http://mixture.io). I've been using Mixture more & more recently and seem to be spending a chunk of time at the beginning of each project setting things up. So why not create the Seed?
+The starting point for all my Front End Builds. Originally built to run on [Mixture](http://mixture.io), it's now revised to work on grunt. I seem to be setting up the same files and directories when starting front end builds... So why not create the Seed?
