@@ -1,8 +1,0 @@
-body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: 'Sass Syntax error: Colors must have either three or six digits: \'#e2434\' \A         on line 21 of C:\\Users\\anthonykilleen\\sites\\boilerplate\\assets\\sass\\_vars.scss \A         from line 2 of C:\\Users\\anthonykilleen\\sites\\boilerplate\\assets\\sass\\app.scss \A   Use --trace for backtrace. \A '; }
-
-  body * {
-  	display: none;
-  }
